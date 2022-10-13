@@ -1,3 +1,3 @@
 # Patatap-Clone
 Open Patatap.html <br />
-Press any key from A-Z or Spacebar, and turn up the speakers
+Press any key from A-Z, and turn up the speakers
